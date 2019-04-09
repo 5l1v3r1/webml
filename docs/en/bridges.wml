@@ -331,7 +331,7 @@
     </p>
 
     <p>
-    You can also get bridges by sending mail to bridges@bridges.torproject.org
+    You can also get bridges by sending mail to bridges@torproject.org
     with the line "get bridges" by itself in the body of the mail. You'll need
     to send this request from a Gmail, Riseup!, or Yahoo! account, though
     &mdash; we only accept these providers because otherwise we make it too
@@ -351,7 +351,7 @@
     process is just as easy. First, decide which type you want. Currently we
     provide obfs2, obfs3, obfs4, scramblesuit, and fte. If you don't know which one
     you should choose, then obfs4 is usually a good choice. Send an email to
-    bridges@bridges.torproject.org with "get transport obfs4" by itself in
+    bridges@torproject.org with "get transport obfs4" by itself in
     the body of the email (replace "obfs4" with whichever pluggable transport
     you want to use). You should receive an email like this:
     </p>
